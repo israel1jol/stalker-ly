@@ -1,4 +1,4 @@
-Stackerly
+Stalkerly
 ---
 
 >A Full Stack MERN chat app

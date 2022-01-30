@@ -5,10 +5,12 @@ STALKERLY
 
 ### DESCRIPTON
 
-Stalkery-ly is a full stack MongoDB, Express.js and React.js social media web app.
+Stalkerly is a social media MERN STACK personal project i created
+Create a profile, post content, like and follow other users on the app.
 
 
 ## DEPENDENCIES
+
 ![Mongoose][https://img.shields.io:/badge/-Mongoose-green]
 ![React][https://img.shields.io:/badge/-ReactJs-blue]
 ![Express][https://img.shields.io:/badge/-ExpressJs-Yellow]

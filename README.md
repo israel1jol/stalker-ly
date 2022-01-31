@@ -13,7 +13,7 @@ Create a profile, post content, like and follow other users on the app.
 
 ![Mongoose](https://img.shields.io:/badge/-Mongoose-green)
 ![React](https://img.shields.io:/badge/-ReactJs-blue)
-![Express](https://img.shields.io:/badge/-ExpressJs-Yellow)
+![Express](https://img.shields.io:/badge/-ExpressJs-yellow)
 ![React-Router](https://img.shields.io:/badge/-ReactRouterDom-blue)
 ![React-icons](https://img.shields.io:/badge/-ReactIcons-blue)
-![bootstrap](https://img.shields.io:/badge/-Bootstrap-green)
+![bootstrap](https://img.shields.io:/badge/-Bootstrap-Yellow)

@@ -19,6 +19,7 @@ body {
 
 ::-webkit-scrollbar-track{
   border-radius: 20px;
+  background:transparent;
   
 }
 
